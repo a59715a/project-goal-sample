@@ -6,6 +6,7 @@ const nextConfig: NextConfig = {
     unoptimized: true,
   },
   basePath: "/project-goal-sample",
+  assetPrefix: "/project-goal-sample",
   /* config options here */
 };
 
