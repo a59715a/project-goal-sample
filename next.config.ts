@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: process.env.PAGES_BASE_PATH || "", // 支援 GitHub Pages 子路徑
+  basePath: "project-goal-sample",
   /* config options here */
 };
 
