@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: "project-goal-sample",
+  basePath: "/project-goal-sample",
   /* config options here */
 };
 
